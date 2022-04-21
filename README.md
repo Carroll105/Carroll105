@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Carroll105/Carroll105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shanghai Jiaotong Unversity as a PhD student.
 - 🌱 My research interests includes bioinformatic, machine learning and deep learning
@@ -15,4 +12,4 @@ Here are some ideas to get you started:
 
 See more details in personal website: https://carroll105.github.io/
 
--->
+
